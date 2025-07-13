@@ -1,16 +1,14 @@
-## Hi there 👋
+Phuwadet Chindawong💻
 
-<!--
-**PHUWADET001/PHUWADET001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Subscribe](https://img.shields.io/badge/Subscribe-5.5K-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Phuwadet025?sub_confirmation=1)
+📝 [python, Low-level , C , Linux]
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Data
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=somtumpupala&show_icons=true&theme=radical)
+
+## 📫 contract
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pickled025l@gmail.com)
