@@ -1,6 +1,6 @@
 Phuwadet Chindawong💻
 
-[![Subscribe](https://img.shields.io/badge/Subscribe-378-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Phuwadet025?sub_confirmation=1)
+[![Subscribe](https://img.shields.io/badge/Subscribe-378-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@alterzide?sub_confirmation=1)
 
 
 ## 📝 Main
